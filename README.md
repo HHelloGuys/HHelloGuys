@@ -4,4 +4,3 @@
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HHelloGuys&show_icons=true&theme=algolia"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HHelloGuys&layout=compact&theme=algolia&hide=jupyter%20notebook"/>
